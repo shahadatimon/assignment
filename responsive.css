@@ -1,0 +1,51 @@
+@media(max-width:1500px){
+    .baner-img img {
+        width: 430px;
+        margin-top: 10px;
+    }
+}
+@media(max-width:1200px){
+    .about-section img {
+        width: 461px;
+        margin-top: 1;
+    }
+}
+@media(max-width:990px){
+    .slider-text {
+        text-align: center;
+    }
+    .baner-img {
+        text-align: center;
+        margin-top: 48px;
+    }
+    .col-lg-6 {
+        text-align: center;
+    }
+    .baner-section.py-5 {
+        margin-top: -143px;
+    }
+}
+@media (max-width:530px){
+    .about-section img {
+        width: 404px;
+    }
+}
+@media (max-width:450px){
+    .baner-img img {
+        width: 325px;
+    }
+    .about-section img {
+        width: 348px;
+    }
+    .baner-img img {
+        width: 297px;
+    }
+}
+@media (max-width:370px){
+    .about-section img {
+        width: 282px;
+    }
+    .baner-img img {
+        width: 236px;
+    }
+}

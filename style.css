@@ -1,0 +1,166 @@
+/* header-menu */
+.header-menu span.logo{
+    color: #75a4fd;
+}
+/* slider */
+.slider-text a{
+    text-decoration: none;
+    background-color: #8490ff;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+}
+.baner-img img{
+    width: 430px;
+    margin-top: -50px;
+}
+.slider-text{
+    margin-top: 100px;
+}
+.slider-text h5{
+    margin-bottom: 15px;
+}
+.slider-text h2{
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 40px;  
+}
+.slider-text p{
+    margin-bottom: 35px;
+}
+/* about-section */
+.about-section a{
+    text-decoration: none;
+    background-color: #8490ff;
+    color: white;
+    padding: 6px 12px;
+    border-radius: 6px;
+}
+.about-section img{
+    width: 500px;
+    border: 1px solid rgba(216, 213, 213, 0.74);
+    border-radius: 5px;
+}
+.about-text{
+    margin-top: 45px;
+}
+.about-text h5{
+    font-size: 16px;
+    margin-bottom: 16px;
+}
+.about-text h2{
+    font-size: 35px;
+    margin-bottom: 16px;
+}
+.about-text p{
+    margin-bottom: 36px;
+    font-size: 15px;
+}
+/* prissing-section */
+.prissing-section{
+    background-color: #8490ff;
+    padding: 90px 0;
+}
+.text h2{
+    font-weight: 700;
+}
+/* app-section */
+.app-section h1{
+    font-weight: 500;
+    font-size: 46px;
+    margin-bottom: 15px;
+}
+.app-section p{
+    font-size: 20px;
+}
+.app-text{
+    box-shadow: 0px 0px 15px 2px rgba(35, 192, 240, 0.2);
+    padding: 35px 0;
+    margin-top: 25px;
+    box-sizing: border-box;
+}
+.app-section .app-text h2{
+    font-size: 30px;
+    margin-bottom: 35px;
+}
+.app-section .app-text h5{}
+.app-section .app-text p{
+    font-size: 15px;
+    margin-bottom: 35px;
+}
+.app-section .app-text ul{
+    list-style: none;
+}
+.app-section .app-text ul li{
+    font-size: 20px;
+    margin-bottom: 25px;
+}
+.app-section .app-text a{
+    text-decoration: none;
+    color: #8490ff;
+    background-color:white ;
+    border: 2px solid #8490ff;
+    padding: 8px 20px;
+    border-radius: 5px;
+    font-size: 22px;
+    margin-top: 20px;
+    box-shadow: 0px 0px 15px 2px rgba(35, 192, 240, 0.3);
+    display: inline-block;
+}
+/* team-section */
+.team-section{
+    padding: 100px 0;
+}
+.img{
+    position: relative;
+}
+.img img{
+    width: 100px;
+    position: absolute;
+    top: -73px;
+    left: 15px;
+}
+.team-text{
+    box-shadow: 0px 8px 15px 2px rgba(28, 30, 31, 0.2);
+    padding: 35px 40px;
+}
+.team-text h2{
+    font-size: 26px;
+}
+.team-text h5{
+    font-size: 15px;
+    margin-top: -10px;
+    margin-bottom: 16px;
+}
+.team-text p{
+    font-size: 14px;
+}
+.team-text a{
+    text-decoration: none;
+    color: black;
+    box-shadow: 0px 0px 15px 2px rgba(28, 30, 31, 0.3);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+/* contect-section */
+.con-item{
+    box-shadow: 0px 0px 35px 2px rgba(106, 201, 230, 0.3);
+    padding: 45px 45px;
+    margin-top: 40px;
+}
+.con-item input{
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.right-text{
+    margin: 100px 40px;
+}
+.right-text h3{
+    font-weight: 500;
+}
+.right-text p{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
